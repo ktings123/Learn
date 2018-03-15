@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<project version="4">
-  <component name="ProjectModuleManager">
-    <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/UIauto.iml" filepath="$PROJECT_DIR$/.idea/UIauto.iml" />
-      <module fileurl="file://D:\PythonProject\sockettest\.idea\sockettest.iml" filepath="D:\PythonProject\sockettest\.idea\sockettest.iml" />
-    </modules>
-  </component>
-</project>

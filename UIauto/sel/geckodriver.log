@@ -1,0 +1,58 @@
+1520847807340	geckodriver	INFO	Listening on 127.0.0.1:46143
+1520847809203	mozprofile::profile	INFO	Using profile path C:\Users\82008947\AppData\Local\Temp\rust_mozprofile.YvE0M1iDEnoZ
+1520847809215	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1520847809377	geckodriver::marionette	INFO	Connecting to Marionette on localhost:46152
+1520847815433	Marionette	INFO	Listening on port 46152
+1520847817766	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 55052] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+[Child 55052] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+1520848703228	geckodriver	INFO	Listening on 127.0.0.1:46642
+1520848705181	mozprofile::profile	INFO	Using profile path C:\Users\82008947\AppData\Local\Temp\rust_mozprofile.Is1coltM2448
+1520848705186	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1520848705238	geckodriver::marionette	INFO	Connecting to Marionette on localhost:46648
+1520848708611	Marionette	INFO	Listening on port 46648
+1520848710335	Marionette	WARN	TLS certificate errors will be ignored for this session
+1520848774249	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: error
+1520848875294	geckodriver	INFO	Listening on 127.0.0.1:46811
+1520848877335	mozprofile::profile	INFO	Using profile path C:\Users\82008947\AppData\Local\Temp\rust_mozprofile.jccU3sXxvkdv
+1520848877345	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1520848877413	geckodriver::marionette	INFO	Connecting to Marionette on localhost:46817
+1520848879385	Marionette	INFO	Listening on port 46817
+1520848881282	Marionette	WARN	TLS certificate errors will be ignored for this session
+1520849025648	geckodriver	INFO	Listening on 127.0.0.1:46948
+1520849027692	mozprofile::profile	INFO	Using profile path C:\Users\82008947\AppData\Local\Temp\rust_mozprofile.9Z4JEE8KccQY
+1520849027697	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1520849027719	geckodriver::marionette	INFO	Connecting to Marionette on localhost:46954
+1520849029413	Marionette	INFO	Listening on port 46954
+1520849030875	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://marionette/content/listener.js, line 921: TypeError: can't access dead object
+1520849045980	geckodriver	INFO	Listening on 127.0.0.1:47025
+1520849048049	mozprofile::profile	INFO	Using profile path C:\Users\82008947\AppData\Local\Temp\rust_mozprofile.R3nBK5YTziEW
+1520849048055	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1520849048078	geckodriver::marionette	INFO	Connecting to Marionette on localhost:47031
+1520849050394	Marionette	INFO	Listening on port 47031
+1520849051986	Marionette	WARN	TLS certificate errors will be ignored for this session
+1520849064637	geckodriver	INFO	Listening on 127.0.0.1:47077
+1520849066611	mozprofile::profile	INFO	Using profile path C:\Users\82008947\AppData\Local\Temp\rust_mozprofile.T5bDMhjy9VzG
+1520849066620	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1520849066646	geckodriver::marionette	INFO	Connecting to Marionette on localhost:47083
+1520849068162	Marionette	INFO	Listening on port 47083
+1520849069710	Marionette	WARN	TLS certificate errors will be ignored for this session
+1520849084551	geckodriver	INFO	Listening on 127.0.0.1:47130
+1520849086585	mozprofile::profile	INFO	Using profile path C:\Users\82008947\AppData\Local\Temp\rust_mozprofile.7q235vN2vtHV
+1520849086591	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1520849086617	geckodriver::marionette	INFO	Connecting to Marionette on localhost:47138
+1520849088140	Marionette	INFO	Listening on port 47138
+1520849089727	Marionette	WARN	TLS certificate errors will be ignored for this session
+1520849113585	geckodriver	INFO	Listening on 127.0.0.1:47158
+1520849115627	mozprofile::profile	INFO	Using profile path C:\Users\82008947\AppData\Local\Temp\rust_mozprofile.IRIZt75sZ9LT
+1520849115636	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1520849115664	geckodriver::marionette	INFO	Connecting to Marionette on localhost:47169
+1520849117158	Marionette	INFO	Listening on port 47169
+1520849119043	Marionette	WARN	TLS certificate errors will be ignored for this session
+1520906213107	geckodriver	INFO	Listening on 127.0.0.1:5142
+1520906215104	mozprofile::profile	INFO	Using profile path C:\Users\82008947\AppData\Local\Temp\rust_mozprofile.wn6caBU9nvL2
+1520906215108	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1520906215148	geckodriver::marionette	INFO	Connecting to Marionette on localhost:5149
+1520906217218	Marionette	INFO	Listening on port 5149
+1520906218828	Marionette	WARN	TLS certificate errors will be ignored for this session
