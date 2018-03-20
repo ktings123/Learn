@@ -1,5 +1,5 @@
 # coding=utf-8
-
+import unittest
 # class Employee:
 #     '所有员工的基类'
 #     empCount = 0
@@ -23,10 +23,14 @@
 # num = [num for num in enumerate(num1,1)]
 # print(num)
 
-def is_odd(x):
-    return x % 2 == 1
+# def is_odd(x):
+#     return x % 2 == 1
+#
+#
+# num = map(is_odd, [1, 4, 6, 7, 9, 12, 17])
+# print(type(num))
+# print(list(num))
 
 
-num = map(is_odd, [1, 4, 6, 7, 9, 12, 17])
-print(type(num))
-print(list(num))
+
+

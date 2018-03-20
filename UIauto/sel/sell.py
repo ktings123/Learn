@@ -20,23 +20,23 @@ class FistUntest(unittest.TestCase):
         assert "Python" in d.title
         assert "No results found" not in d.page_source
 
-    def test_sel(self):
-        s = Select(self.d.find_element_by_id("id"))  # choice
-
-    def test_window(self):           # about windows moving
-        for x in self.d.window_handles:
-            self.d.switch_to_frame()
-
-    def test_el(self):                       # choice element
-        self.d.find_element(By.CLASS_NAME,'kkkk')
-
-    def test_wait(self):               # wait until
-        element = WebDriverWait(self.d, 10).until(
-            ec.presence_of_element_located((By.ID, "myDynamicElement"))
-        )
-
-        wait = WebDriverWait(self.d,20)
-        el = wait.until(ec.element_to_be_clickable((By.ID,'id')))   # be careful '()'
+    # def test_sel(self):
+    #     s = Select(self.d.find_element_by_id("id"))  # choice
+    #
+    # def test_window(self):           # about windows moving
+    #     for x in self.d.window_handles:
+    #         self.d.switch_to_frame()
+    #
+    # def test_el(self):                       # choice element
+    #     self.d.find_element(By.CLASS_NAME,'kkkk')
+    #
+    # def test_wait(self):               # wait until
+    #     element = WebDriverWait(self.d, 10).until(
+    #         ec.presence_of_element_located((By.ID, "myDynamicElement"))
+    #     )
+    #
+    #     wait = WebDriverWait(self.d,20)
+    #     el = wait.until(ec.element_to_be_clickable((By.ID,'id')))   # be careful '()'
 
     def tearDown(self):
         self.d.close()
@@ -44,3 +44,5 @@ class FistUntest(unittest.TestCase):
 
 if __name__ == "__main__":
     unittest.main()
+
+
